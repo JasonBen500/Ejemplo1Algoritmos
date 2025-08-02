@@ -14,10 +14,12 @@ public class GITHUB1 {
     
 }
 public static void main(String[] args){
-string nombre, edad;
+string nombre, edad, telefono;
 Scanner lector=new Scanner(system.in);
 System.out.println("Ingrese su nombre");
 nombre=lector.next();
 System.out.println("Ingrse su edad");
 edad=lector.next();
+System.out.println("Ingrese su telefono");
+telefono=lector.next();
 }
